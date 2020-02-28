@@ -25,7 +25,7 @@ In this challenge, you will create a Single Page Application complete with Clien
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
-- [ ]  Explain benefit(s) using `client-side routing`?
+- [ ]  Explain benefit(s) using `client-side routing`?  The webpage does not have to re-download everything time the user changes pages.  It makes the webpage feel much snappier and the user downloads less data per page change (more of a data download up front though)
 
 > Answer:
 
